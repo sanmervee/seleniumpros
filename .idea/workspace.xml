@@ -23,12 +23,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="57f0c0e4-6da1-446f-9680-e6d1113aca60" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/googleproject/tinytest/Navigations.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/hi.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -99,7 +108,21 @@
       <option name="project" value="LOCAL" />
       <updated>1628910873695</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="pom commit with dependencies">
+      <created>1628911787394</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1628911787394</updated>
+    </task>
+    <task id="LOCAL-00004" summary="pom commit with dependencies">
+      <created>1628911944732</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1628911944732</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -117,36 +140,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new branch" />
     <MESSAGE value="second commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="479" y="216" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1628910445739">
-      <screen x="0" y="0" width="2048" height="1122" />
-    </state>
-    <state x="479" y="216" key="#com.intellij.execution.impl.EditConfigurationsDialog/2560.266.1920.1042/0.0.2048.1122/-1920.251.1920.1050@0.0.2048.1122" timestamp="1628910445739" />
-    <state x="704" y="297" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1628910976064">
-      <screen x="0" y="0" width="2048" height="1122" />
-    </state>
-    <state x="704" y="297" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/2560.266.1920.1042/0.0.2048.1122/-1920.251.1920.1050@0.0.2048.1122" timestamp="1628910976064" />
-    <state x="651" y="129" key="CommitChangelistDialog2" timestamp="1628910873295">
-      <screen x="0" y="0" width="2048" height="1122" />
-    </state>
-    <state x="651" y="129" key="CommitChangelistDialog2/2560.266.1920.1042/0.0.2048.1122/-1920.251.1920.1050@0.0.2048.1122" timestamp="1628910873295" />
-    <state x="805" y="302" key="FileChooserDialogImpl" timestamp="1628910552029">
-      <screen x="0" y="0" width="2048" height="1122" />
-    </state>
-    <state x="805" y="302" key="FileChooserDialogImpl/2560.266.1920.1042/0.0.2048.1122/-1920.251.1920.1050@0.0.2048.1122" timestamp="1628910552029" />
-    <state x="533" y="206" key="SettingsEditor" timestamp="1628911410235">
-      <screen x="0" y="0" width="2048" height="1122" />
-    </state>
-    <state x="533" y="206" key="SettingsEditor/2560.266.1920.1042/0.0.2048.1122/-1920.251.1920.1050@0.0.2048.1122" timestamp="1628911410235" />
-    <state x="617" y="294" key="Vcs.Push.Dialog.v2" timestamp="1628911090684">
-      <screen x="0" y="0" width="2048" height="1122" />
-    </state>
-    <state x="617" y="294" key="Vcs.Push.Dialog.v2/2560.266.1920.1042/0.0.2048.1122/-1920.251.1920.1050@0.0.2048.1122" timestamp="1628911090684" />
-    <state x="842" y="475" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1628911312802">
-      <screen x="0" y="0" width="2048" height="1122" />
-    </state>
-    <state x="842" y="475" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/2560.266.1920.1042/0.0.2048.1122/-1920.251.1920.1050@0.0.2048.1122" timestamp="1628911312802" />
+    <MESSAGE value="pom commit with dependencies" />
+    <option name="LAST_COMMIT_MESSAGE" value="pom commit with dependencies" />
   </component>
 </project>
